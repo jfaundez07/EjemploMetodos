@@ -17,3 +17,7 @@ Crear un método llamado regarPlanta que reciba dos parámetros: un booleano "re
 ```java
 public void regarJardin() {}
 ```
+
+**Links de utilidad:**
+
+[Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
