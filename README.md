@@ -22,3 +22,10 @@ public void regarPlanta() {}
 **Links de utilidad:**
 
 [Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+
+**Tips:**
+Agregar metodo para imprimir
+
+```java
+public void imprimirMensaje(String mensaje) {}
+```
