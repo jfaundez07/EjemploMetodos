@@ -11,11 +11,12 @@ El método debe recibir el estado de la planta (si necesita agua o no) y el nomb
 **Problema:**
 
 Crear un método llamado regarPlanta que reciba dos parámetros: un booleano "requiereAgua"  y un String nombrePlanta. Si requiereAgua es true, el método debe imprimir un mensaje que diga "Regando la planta  [tipoPlanta]". Si es false, debe imprimir "La planta [tipoPlanta] no necesita agua en este momento."
+Luego, el progama debe solicitir al usuario, cuales son las plantas que hay en el jardin, y luego, llamar al metodo regarPlanta, para determinar si debe ser regada o no. Considerar que es el usuario quien debe decidir si regarla o no.
 
 **Definicion:**
 
 ```java
-public void regarJardin() {}
+public void regarPlanta() {}
 ```
 
 **Links de utilidad:**
