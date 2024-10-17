@@ -1,10 +1,16 @@
 package model.buenaPractica;
 
+/**
+ * Represents a garden with plants that can be watered.
+ */
 public class Jardin {
-    /*
-         parametro planta -> nombre de la planta,
-         parametro requiereAgua -> determina si la planta necesita agua
-    */
+
+    /**
+     * Waters a plant if it requires water.
+     *
+     * @param planta the name of the plant
+     * @param requiereAgua determines if the plant needs water
+     */
     public void regarPlanta(String planta, Boolean requiereAgua) {
 
         if (requiereAgua) {                       /* Si requiereAgua es verdadero (true) entra en el condicional if */
